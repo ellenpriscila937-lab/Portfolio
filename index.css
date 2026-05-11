@@ -1,0 +1,49 @@
+/* Global */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+ul,
+li,
+a {
+  font-family: "Montserrat", sans-serif;
+  color: #404040;
+  line-height: 1;
+}
+
+/* Apresentação-Apresentação */
+h1 {
+  font-size: 35px;
+}
+
+.apresentacao {
+  font-size: 18px;
+}
+
+#foco {
+  text-transform: uppercase;
+}
+
+.botao {
+  color: #011f4b;
+}
+
+/* Sobre mim */
+
+h3 {
+  font-size: 22px;
+}
+
+/* aprendendo */
+.destaque {
+  text-transform: uppercase;
+  color: #005b96;
+}
+
+/* Meus projetos */
+.meus-projetos {
+  font-size: 32px;
+}
